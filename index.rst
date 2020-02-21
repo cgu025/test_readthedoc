@@ -10,10 +10,8 @@ Welcome to TEST's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-go Blazers, go Anthony!!
-========================
+   feature-a
 
-and go Rockets..
 
 
 Indices and tables
